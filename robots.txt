@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://micoficial.github.io/ai-fuseji/sitemap.xml
+Sitemap: https://micoficial.github.io/tsushinbo/sitemap.xml
+Sitemap: https://micoficial.github.io/shujutsu/sitemap.xml
+Sitemap: https://micoficial.github.io/soubacho/sitemap.xml
+Sitemap: https://micoficial.github.io/nyusatsu-note/sitemap.xml
+Sitemap: https://micoficial.github.io/yakusho-nenshu/sitemap.xml
